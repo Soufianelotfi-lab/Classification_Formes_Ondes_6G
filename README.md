@@ -129,17 +129,11 @@ Ce choix permet : une montée progressive du learning rate, une meilleure conver
   - Stratégie d’entraînement entraînement sur plusieurs époques, suivi des performances sur le jeu de validation, sauvegarde du meilleur modèle selon l’accuracy de validation.
 
     Les courbes suivantes sont tracées :
-     <p align="center">
-  <img width="300" height="300" alt="image"
-       src="[https://github.com/user-attachments/assets/e2a590df-8151-4024-a473-937f6c25c04c](https://github.com/user-attachments/assets/24c69dd3-d12e-4da1-8bac-573602abd0a0)" />
-  <img width="320" height="320" alt="image"
-       src="[https://github.com/user-attachments/assets/97e310d0-36dd-406d-be46-8127e556b156](https://github.com/user-attachments/assets/70b977ee-38e6-4b76-98fa-7b976d9a83bf)" />
-      </p>
+    <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5d8228e8-9653-4665-9461-9dde8fefbb4a" />
+
     -Une matrice de confusion est calculée afin d’analyser :
-     <p align="center"> 
-  <img width="300" height="300" alt="image"
-       src="[[https://github.com/user-attachments/assets/e2a590df-8151-4024-a473-937f6c25c04c](https://github.com/user-attachments/assets/24c69dd3-d12e-4da1-8bac-573602abd0a0](https://github.com/user-attachments/assets/a307a944-8ba5-463b-bab0-30a010ad03c8))" />
-         </p>
+    <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/94b635d7-a184-47ab-b951-18e063dea3de" />
+
 
 
 
