@@ -129,9 +129,19 @@ Ce choix permet : une montée progressive du learning rate, une meilleure conver
   - Stratégie d’entraînement entraînement sur plusieurs époques, suivi des performances sur le jeu de validation, sauvegarde du meilleur modèle selon l’accuracy de validation.
 
     Les courbes suivantes sont tracées :
+
+
+
+
+
     <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5d8228e8-9653-4665-9461-9dde8fefbb4a" />
 
     -Une matrice de confusion est calculée afin d’analyser :
+
+
+
+
+
     <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/94b635d7-a184-47ab-b951-18e063dea3de" />
 
 
