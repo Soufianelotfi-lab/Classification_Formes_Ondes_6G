@@ -1,8 +1,8 @@
 # Classification_Formes_Ondes_6G
 ## Présentation du projet
-Ce projet a pour objectif de classifier différentes formes d’ondes 6G à partir de signaux I/Q, en s’appuyant sur des techniques de Deep Learning. Les signaux étudiés correspondent à différentes modulations et formes d’ondes, dont les caractéristiques peuvent être difficiles à distinguer par des méthodes classiques.
+Ce projet a pour objectif de classifier différentes formes d’ondes 6G à partir de signaux I/Q, en s’appuyant sur des techniques de Deep Learning. Les signaux étudiés correspondent à différentes modulations et formes d’ondes, dont les caractéristiques peuvent être difficiles à distinguer par des méthodes classiques. 
 
-Les données sont analysées selon deux représentations complémentaires. Dans le domaine temporel, le modèle exploite directement l’évolution des échantillons I/Q afin d’apprendre les dynamiques temporelles propres à chaque forme d’onde. Dans le domaine fréquentiel, les signaux sont transformés à l’aide de la FFT afin de mettre en évidence leur contenu spectral, ce qui permet de capturer des signatures fréquentielles caractéristiques.
+Les données sont analysées selon deux représentations complémentaires. Dans le domaine temporel, le modèle exploite directement l’évolution des échantillons I/Q afin d’apprendre les dynamiques temporelles propres à chaque forme d’onde. Dans le domaine fréquentiel, les signaux sont transformés à l’aide de la FFT afin de mettre en évidence leur contenu spectral, ce qui permet de capturer des signatures sgnatures   fréquentielles caractéristiques.
 
 ## Organisation du projet
 Le projet est structuré autour de deux notebooks principaux, chacun correspondant à une approche de modélisation.
